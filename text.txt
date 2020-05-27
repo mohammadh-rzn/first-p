@@ -2,9 +2,6 @@ hello
 world 
 im
 mohammad
-<<<<<<< HEAD
 hossein
-=======
-alireza
->>>>>>> hello
 rezania
+and so on
